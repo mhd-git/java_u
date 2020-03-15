@@ -1,5 +1,5 @@
 public class Test {
-	public int x;
+	private int x;
 
 	public Test(int a) {
 		this.x = a;
